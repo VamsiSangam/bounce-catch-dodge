@@ -4,7 +4,7 @@ Bouce! Catch! Dodge! is a 2D HTML5 game built using Construct 2. You can [play t
 - Use arrows to move the red ball over platforms.
 - Use UP arrow to jump!
 - Collect as many blue balls as you can.
-- Time limit is 30 seconds.
+- Time limit is 45 seconds.
 - Avoid bullets from the tanker.
 - Avoid falling below.
 
